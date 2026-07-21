@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>เว็บวงล้อสุ่ม</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <h1>วงล้อสุ่ม</h1>
+  <p class="subtitle">ใส่ตัวเลือกที่ต้องการ แล้วกดปุ่มหมุนเพื่อสุ่มผลลัพธ์</p>
+
+  <div class="container">
+
+    <div class="wheel-section">
+      <div class="wheel-wrap">
+        <div class="pointer"></div>
+        <canvas id="wheel" width="600" height="600"></canvas>
+      </div>
+      <button id="spinBtn">หมุนวงล้อ</button>
+      <p id="result"></p>
+    </div>
+
+    <div class="option-section">
+      <h2>ตัวเลือก</h2>
+      <div class="add-row">
+        <input type="text" id="optInput" placeholder="พิมพ์ตัวเลือกใหม่" maxlength="30">
+        <button id="addBtn">เพิ่ม</button>
+      </div>
+      <ul id="optList"></ul>
+      <button id="clearBtn">ล้างทั้งหมด</button>
+    </div>
+
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
