@@ -1,0 +1,209 @@
+[{
+  "_id": {
+    "$oid": "6a5e56a7cd5c2cb0c03c5858"
+  },
+  "name": "GTX 1660 Super",
+  "gpu": "GTX 1660 Super 6GB",
+  "cpu": "Ryzen 5 3600",
+  "ramGb": 8,
+  "pricePerHour": 900,
+  "suitableFor": [
+    "Roblox",
+    "เกม 2D/Indie"
+  ],
+  "locationIds": [
+    "665f1000000000000000b001"
+  ],
+  "isActive": true,
+  "createdAt": "2026-05-01T09:00:00Z",
+  "updatedAt": "2026-05-01T09:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6a5e56a7cd5c2cb0c03c5859"
+  },
+  "name": "RTX 3050",
+  "gpu": "RTX 3050 8GB",
+  "cpu": "Ryzen 5 4600G",
+  "ramGb": 8,
+  "pricePerHour": 1200,
+  "suitableFor": [
+    "Valorant",
+    "PUBG Mobile (จำลอง)"
+  ],
+  "locationIds": [
+    "665f1000000000000000b001"
+  ],
+  "isActive": true,
+  "createdAt": "2026-05-01T09:00:00Z",
+  "updatedAt": "2026-05-01T09:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6a5e56a7cd5c2cb0c03c585a"
+  },
+  "name": "RTX 3060",
+  "gpu": "RTX 3060 12GB",
+  "cpu": "Ryzen 5 5600",
+  "ramGb": 16,
+  "pricePerHour": 1900,
+  "suitableFor": [
+    "Roblox",
+    "Valorant",
+    "GTA V"
+  ],
+  "locationIds": [
+    "665f1000000000000000b001",
+    "665f1000000000000000b002"
+  ],
+  "isActive": true,
+  "createdAt": "2026-05-01T09:00:00Z",
+  "updatedAt": "2026-05-01T09:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6a5e56a7cd5c2cb0c03c585b"
+  },
+  "name": "RTX 3060 Ti",
+  "gpu": "RTX 3060 Ti 8GB",
+  "cpu": "Ryzen 5 5600X",
+  "ramGb": 16,
+  "pricePerHour": 2400,
+  "suitableFor": [
+    "Apex Legends",
+    "PUBG"
+  ],
+  "locationIds": [
+    "665f1000000000000000b001",
+    "665f1000000000000000b002"
+  ],
+  "isActive": true,
+  "createdAt": "2026-05-15T09:00:00Z",
+  "updatedAt": "2026-05-15T09:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6a5e56a7cd5c2cb0c03c585c"
+  },
+  "name": "RTX 3070",
+  "gpu": "RTX 3070 8GB",
+  "cpu": "Ryzen 7 5700X",
+  "ramGb": 32,
+  "pricePerHour": 2900,
+  "suitableFor": [
+    "Elden Ring",
+    "Cyberpunk 2077"
+  ],
+  "locationIds": [
+    "665f1000000000000000b001"
+  ],
+  "isActive": true,
+  "createdAt": "2026-06-01T09:00:00Z",
+  "updatedAt": "2026-06-01T09:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6a5e56a7cd5c2cb0c03c585d"
+  },
+  "name": "RTX 3070 Ti",
+  "gpu": "RTX 3070 Ti 8GB",
+  "cpu": "Ryzen 7 5800X",
+  "ramGb": 32,
+  "pricePerHour": 3200,
+  "suitableFor": [
+    "Warzone",
+    "สตรีม 1080p 60fps"
+  ],
+  "locationIds": [
+    "665f1000000000000000b001",
+    "665f1000000000000000b003"
+  ],
+  "isActive": true,
+  "createdAt": "2026-06-01T09:00:00Z",
+  "updatedAt": "2026-06-01T09:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6a5e56a7cd5c2cb0c03c585e"
+  },
+  "name": "RTX 4060",
+  "gpu": "RTX 4060 8GB",
+  "cpu": "Ryzen 5 7600",
+  "ramGb": 16,
+  "pricePerHour": 2600,
+  "suitableFor": [
+    "Valorant",
+    "Fortnite"
+  ],
+  "locationIds": [
+    "665f1000000000000000b001",
+    "665f1000000000000000b002"
+  ],
+  "isActive": true,
+  "createdAt": "2026-06-10T09:00:00Z",
+  "updatedAt": "2026-06-10T09:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6a5e56a7cd5c2cb0c03c585f"
+  },
+  "name": "RTX 4070",
+  "gpu": "RTX 4070 12GB",
+  "cpu": "Ryzen 7 7700",
+  "ramGb": 32,
+  "pricePerHour": 3900,
+  "suitableFor": [
+    "Forza",
+    "สตรีม 1080p"
+  ],
+  "locationIds": [
+    "665f1000000000000000b001",
+    "665f1000000000000000b002",
+    "665f1000000000000000b003"
+  ],
+  "isActive": true,
+  "createdAt": "2026-05-01T09:00:00Z",
+  "updatedAt": "2026-05-01T09:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6a5e56a7cd5c2cb0c03c5860"
+  },
+  "name": "RTX 4070 Ti",
+  "gpu": "RTX 4070 Ti 12GB",
+  "cpu": "Ryzen 9 7900X",
+  "ramGb": 32,
+  "pricePerHour": 4800,
+  "suitableFor": [
+    "สตรีม 1440p",
+    "Cyberpunk 2077 RT"
+  ],
+  "locationIds": [
+    "665f1000000000000000b001",
+    "665f1000000000000000b003"
+  ],
+  "isActive": true,
+  "createdAt": "2026-06-20T09:00:00Z",
+  "updatedAt": "2026-06-20T09:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6a5e56a7cd5c2cb0c03c5861"
+  },
+  "name": "RTX 4090",
+  "gpu": "RTX 4090 24GB",
+  "cpu": "Ryzen 9 7950X",
+  "ramGb": 64,
+  "pricePerHour": 6900,
+  "suitableFor": [
+    "4K",
+    "ตัดต่อ+เล่นเกม"
+  ],
+  "locationIds": [
+    "665f1000000000000000b001",
+    "665f1000000000000000b004"
+  ],
+  "isActive": false,
+  "createdAt": "2026-05-01T09:00:00Z",
+  "updatedAt": "2026-07-18T11:00:00Z"
+}]
